@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: linear-gradient(rgb(233, 162, 61),rgb(113, 251, 230));
+    background-repeat: no-repeat;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+.formgrp{
+    background-color: rgb(202, 202, 202);
+    border-radius: 5px;
+    border: 2px solid darkgray;
+}
+#employeeForm label{
+    margin-right: 5px;
+}
+.btn-success{
+    margin-top: 10px !important;
+}
